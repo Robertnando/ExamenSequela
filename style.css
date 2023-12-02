@@ -1,0 +1,17 @@
+#Yes {
+    background-color: lime;
+}
+
+#No {
+    background-color: red;
+    display: flex;
+    ;
+}
+
+.Screen {
+    border-color: black;
+    border-style: groove;
+    border-radius: 10%;
+    margin: 5rem;
+    padding: 2rem;
+}
